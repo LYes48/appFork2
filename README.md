@@ -29,10 +29,10 @@ https://github.com/users/farikalamine/projects/1/views/2
 - Fonctionnalités 12 (En tant que utilisateur je peux planifier des voyages)
 - Fonctionnalités 13 (En tant que utilisateur je peux changer mon emaill , nom et mon mot de passe)
 - Fonctionnalités 14 (En tant que utilisateur je peux modifier mes avis sur les destination)
-- Fonctionnalités 15 (En tant que je peux poser des questions)
+- Fonctionnalités 15 (En tant que utilisateur je peux poser des questions)
 - Fonctionnalités 16 (En tant que utilisateur je peux modifier le mode d'eclairage (sombre/claire))
 - Fonctionnalités 17 (En tant que utilisateur je peux ajouter des destination qui n'existe pas)
-- Fonctionnalités 18 (je peux me deconnecter)
+- Fonctionnalités 18 (En tant que utilisateur je peux me deconnecter)
 
 ## Technologies
 
