@@ -39,7 +39,6 @@ https://github.com/users/farikalamine/projects/1/views/2
 - [Node.js](https://nodejs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [flutter](https://flutter.dev/)
-- [ReactJS](https://reactjs.org/)
 - [MongoDb](https://www.mongodb.com/)
 - [TailWind](https://tailwindcss.com/)
 
