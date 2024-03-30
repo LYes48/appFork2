@@ -9,7 +9,7 @@ https://github.com/users/farikalamine/projects/1/views/2
 ## Projet en cours de réalisation par :
 
 - Amine Farikal
-- Ilyass Haddad 
+- Ilyass Haddad     
 - Mohammed Bouzidi Idrissi 
 
 
